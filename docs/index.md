@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# Shazam4BB
+Shazam for Bats &amp; Birds - A realtime acoustic birds and bats classification systems built on the TFLite version of BirdNet. 
 
-You can use the [editor on GitHub](https://github.com/audevuilli/Shazam4BB/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+### Vision Statement
+Shazam4BB (Shazam for Bats & Birds) is aimed at ecologists and nature-lover communities. This project facilitates the adoption of technology to monitor the calls of birds and bats and learn about the different species populated a local area. It provides easy-to-follow documentation to build and install the device as well as to visualise in real-time bats and birds calls. This project hopes to gain better understanding of how birds and bats species are distributed and adapted to various environment.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Shazam4BB is a on-going project. It evolves along the [**Open Hardware Makers (OHM)**](https://curriculum.openhardware.space/) programme. The aim of this project is to improve the technical capability of the 4 years old ["Shazam for Bats"](https://connected-environments.org/portfolio/shazamforbats/) project.
 
-### Markdown
+#### Team
+The team behind this project is composed of PhD Students, Professors, and Practitioners in the field of ecology and engineering based at the [Connected Environments Lab](https://connected-environments.org/) at The Bartlett CASA, at the [People and Nature Lab](https://www.ucl.ac.uk/biosciences/gee/people-and-nature-lab/) at the Centre for Biodvierstiy and Environment Research CBER at UCL. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Specific Goals
+There are similar open-hardware projects outhere that monitor and classify birds or bats in real-time. The project is specific for the following reasons:
+- Classify bats & birds on the same device. 
+- Optimise for long-range transmission and low-power consumption. 
 
-```markdown
-Syntax highlighted code block
+### Similar Projects
+- [BirdNet-Pi](https://github.com/mcguirepr89/BirdNET-Pi) by Patrick McGuire [@mcguirepr89](https://github.com/mcguirepr89) under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 Internation Public License.
+- [RPi-Eco-Monitoring](https://github.com/sarabsethi/rpi-eco-monitoring) by Sarab Sethi [@sarabsethi](https://github.com/sarabsethi) under a GNU General v3.0 Public License. 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/audevuilli/Shazam4BB/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
