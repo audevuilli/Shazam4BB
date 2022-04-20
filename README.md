@@ -13,6 +13,9 @@ Shazam4BB (Shazam for Bats & Birds) is aimed at ecologists and nature-lover comm
 2. Analysis: Audio analysis. DL Algorithm to identify species in spectrogram.
 3. Visualisation: Audio resutls. Save result in database. 
 
+**Components**
+Microphone, Computer Processing Unit (CPU, GPU), Power module, Communication (Wifi, LoRa) Module
+
 Shazam4BB is a on-going project. It evolves along the [**Open Hardware Makers (OHM)**](https://curriculum.openhardware.space/) programme. The aim of this project is to improve the technical capability of the 4 years old ["Shazam for Bats"](https://connected-environments.org/portfolio/shazamforbats/) project.
 
 #### Team
