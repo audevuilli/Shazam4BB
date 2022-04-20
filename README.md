@@ -1,8 +1,5 @@
 # Shazam4BB
 
-[![hackmd-github-sync-badge](https://hackmd.io/89rcYBDqTpiD7u3K53AdxA/badge)](https://hackmd.io/89rcYBDqTpiD7u3K53AdxA)
-
-
 Shazam for Bats &amp; Birds - A realtime acoustic birds and bats classification systems built on the TFLite version of BirdNet. 
 
 ### Vision Statement
