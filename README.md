@@ -9,7 +9,9 @@ Shazam for Bats &amp; Birds - A realtime acoustic birds and bats classification 
 Shazam4BB (Shazam for Bats & Birds) is aimed at ecologists and nature-lover communities. This project facilitates the adoption of technology to monitor the calls of birds and bats and learn about the different species populated a local area. It provides easy-to-follow documentation to build and install the device as well as to visualise in real-time bats and birds calls. This project hopes to gain better understanding of how birds and bats species are distributed and adapted to various environment.
 
 ### Minimal Viable Project
-1. Process: Audio recording. Microphone. Microcontroller device with Audio Input
+Shazam4BB is a DIY birds and bats species audio classification device, which consists of both hardware (microphone, single-board computer) and software (classificaiton algorithm and web server). To make it viable, it has to implement a local bats or birds species algorithm, have an internet connection and save results into a web database. 
+
+1. Process: Audio recording. Microphone. Single-board computer with Audio Input
 2. Analysis: Audio analysis. DL Algorithm to identify species in spectrogram.
 3. Visualisation: Audio resutls. Save result in database. 
 
