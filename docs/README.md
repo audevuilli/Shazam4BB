@@ -7,3 +7,9 @@ Welcome to Shazam4BB documentation materials. This repostory contains all necess
 - [User Docs](https://github.com/audevuilli/Shazam4BB/tree/main/docs/User%20Docs): Use this repo to set up a new device. Include configuration files, debugging and troubleshooting instructions. 
 - [Contributor Docs](https://github.com/audevuilli/Shazam4BB/tree/main/docs/Contributor%20Docs): Look at this repo to contribute to the project. Include contribution guideline, next development stage, open tasks.
 
+#### User Good Practice
+Before setting up your own Shazam4BB device, please take note of the following. 
+- Do not disturb nests, setts or any other animal homes when setting up Shazam4BB device. 
+- Check periodically your device for any defects.
+- Consider other people's privacy when setting up and placing Shazam4BB. 
+- Make sure your device is securely deploy. Prevent the device from falling.  
