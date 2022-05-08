@@ -13,3 +13,10 @@ Before setting up your own Shazam4BB device, please take note of the following.
 - Check periodically your device for any defects.
 - Consider other people's privacy when setting up and placing Shazam4BB. 
 - Make sure your device is securely deploy. Prevent the device from falling.  
+
+#### Overview Shazam4BB SetUp
+- **Make the Enclosure.** Build the weather-resistant enclosures to house the electronics. 
+- **Assemble the Electronics.** Connect the USB Microphone to the RPi. 
+- **Install & Configure the Software.** Install Shazam4BB software on the SD Card. The RPi will read the software from the SD Card to become Shazam4BB. Configure the settings to tailor it to your needs. 
+- **Test Installation.** Power the RPi and test for successful installation. 
+- **Install Shazam4BB.** Deploy the device outdoors.  
