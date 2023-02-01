@@ -21,6 +21,7 @@ The team behind this project is composed of PhD Students, Professors, and Practi
 #### Specific Goals
 There are similar open-hardware projects outhere that monitor and classify birds or bats in real-time. The project is specific for the following reasons:
 - Classify bats in real-time on a Raspberry Pi. 
+- Document the device enclosure. 
 - Optimise for long-range transmission and low-power consumption. 
 - Allow classification of Birds and Bats on the same device. 
 
